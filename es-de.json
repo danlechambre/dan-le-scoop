@@ -1,0 +1,17 @@
+{
+    "version":  "3.2.0",
+    "description": "Gaming frontend for Linux, macOS, Windows and Android",
+    "homepage":  "https://es-de.org/",
+    "license":  {
+        "identifier": "MIT",
+        "url": "https://gitlab.com/es-de/emulationstation-de/-/blob/master/LICENSE"
+    },
+    "architecture": {
+        "64bit": {
+            "url":  "https://gitlab.com/es-de/emulationstation-de/-/package_files/184126686/download"
+        }
+    },
+    "extract_dir":  "ES-DE",
+    "hash":  "7DEFC65C5CC902FE2EF10412C6DEBD53C18D7FE25B37B85536CA79B83080C57C",
+    "bin":  "ES_DE.exe"
+}
