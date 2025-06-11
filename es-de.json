@@ -8,10 +8,10 @@
     },
     "architecture": {
         "64bit": {
-            "url":  "https://gitlab.com/es-de/emulationstation-de/-/package_files/184126686/download"
+            "url":  "https://gitlab.com/es-de/emulationstation-de/-/package_files/184126686/download",
+            "hash":  "7DEFC65C5CC902FE2EF10412C6DEBD53C18D7FE25B37B85536CA79B83080C57C",
+            "extract_dir":  "ES-DE"
         }
     },
-    "extract_dir":  "ES-DE",
-    "hash":  "7DEFC65C5CC902FE2EF10412C6DEBD53C18D7FE25B37B85536CA79B83080C57C",
     "bin":  "ES-DE.exe"
 }
